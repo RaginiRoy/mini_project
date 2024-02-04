@@ -1,0 +1,102 @@
+.h1 {
+    color: red;
+    display: inline-block;
+    text-align: center;
+    font-size: large;
+    text-align: center;
+
+}
+
+.img1 {
+    position: relative;
+    animation-name: random;
+    animation-duration:inherit;
+    animation-iteration-count:infinite;
+
+}
+.h3 {
+    color: darkviolet;
+    display: block;
+    text-align: center;
+    font-size: calc();
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant: calc();
+}
+
+.h4 {
+    color: rgb(139, 0, 74);
+    background-color: cadetblue;
+    display: flex;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: calc();
+}
+
+.h5 {
+    color: darkred;
+    text-align: center;
+}
+
+.strong {
+    background-color: yellow;
+    border: 2px solid red;
+}
+
+.b1 {
+    background-color: red;
+    border: 5px solid white;
+}
+
+
+.h6 {
+    color: darkred;
+    text-align: center;
+
+
+}
+
+.form {
+    background-color: rgb(255, 142, 127);
+    background-position: inherit
+}
+.bcolor{
+
+    background-color:beige;
+    background-image: url("C:\Users\ragin\Downloads\david-holifield-kPxsqUGneXQ-unsplash.jpg");
+}
+footer {
+    padding-block:80px;
+    background-color:#ebf2fa;
+    
+}
+.link-coloumn {
+    flex-direction:coloumn;
+    align-items:flex-start;
+    gap:20px;
+     background-color:#333;
+    color:white;
+
+
+    
+
+
+}
+.footer container {
+    align-items:flex-start;
+    justify-content:space-between;
+}
+/*sub-footer*/
+.subfooter {
+    background-color:hsl(213, 15%, 85%);
+    padding:var(--padding-inline-section);
+}
+.footer1 {
+    text-align:center;
+    padding:10px;
+    background-color:#333;
+    color:white;
+
+}
